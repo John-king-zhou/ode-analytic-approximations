@@ -1,0 +1,4 @@
+interface:
+  display_name: "ODE Analytical Approximations"
+  short_description: "Derive and validate analytical ODE approximations"
+  default_prompt: "Use $ode-analytic-approximations to derive an approximate analytical solution for this ODE model and assess its validity."
